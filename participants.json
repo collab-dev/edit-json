@@ -1,0 +1,76 @@
+[
+    {
+        "name":"Gabor Szabo",
+        "github":"szabgab",
+        "twitter":"szabgab",
+        "urls":{
+            "https://szabgab.com/":"Home Page",
+            "https://pydigger.com/":"PyDigger Project"
+        }
+    },
+    {
+        "name"    : "Evgeny Vainshtok",
+        "github"  : "johnikva"
+    },
+    {
+        "name"    : "Michael Horwitz",
+        "github"  : "mhorvvitz",
+        "twitter" : "mhorvvitz"
+    },
+    {
+        "name"    : "Evan Chesir",
+        "github"  : "echesir",
+        "twitter" : "echesir"
+    },
+    {
+        "name":"Binyamin Kisch",
+        "github":"cjcj56"
+    },
+    {
+     "name"    : "Nastasya Arkhipova",
+     "github"  : "poplardown"
+    },
+    {
+     "name"    : "Hagai Cibulski",
+     "github"  : "hagaic"
+    },
+    {
+      "name"   : "Ron Buenavida",
+      "github" : "rbuenavida"
+    },
+
+    {
+      "name"   : "Sergey Strem",
+      "github" : "SergeyLancer"
+    },
+    {
+      "name"   : "Malka Korets",
+      "github" : "MalkaNessy"
+    },
+    {
+      "name"   : "Nahum Ben Binyamin",
+      "github" : "nahumbb",
+      "twitter": "nahumbb"
+    },
+    {
+      "name"   : "Arie Lashansky",
+      "github" : "DesignByArie"
+    },
+    {
+      "name"   : "Yishai Zaltzberg",
+      "github" : "yishaiz"
+    }, 
+    {
+      "name"   : "Leora Betesh",
+      "github" : "leora-betesh",
+      "linkedin" : "http://linkedin.com/in/leorabetesh"
+    },
+    {
+      "name"   : "Eli Adler",
+      "github" : "elidata"
+    } ,
+    {
+      "name": "Moti Rosenfeld",
+      "github": "rosenmor"
+    }
+]
